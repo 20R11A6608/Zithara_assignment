@@ -22,3 +22,11 @@ Query Parameters:
 filter: Search filter string
 page: Page number for pagination
 sortBy: Sort by date (true/false)
+Project Structure:
+project-root/
+├── routes/
+│   └── user.js
+├── db.js
+├── server.js
+└── .env
+
