@@ -4,6 +4,7 @@ To get started with this project, follow these steps:
 Clone the Repository: Clone this repository to your local machine using the following command:
 bash
 git clone <repository-url>
+Unzip the folder.
 Install Dependencies: Navigate to the project directory and install the dependencies using npm:
 bash
 cd node-express-postgresql-example
